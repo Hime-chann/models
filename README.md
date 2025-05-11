@@ -6,7 +6,7 @@ This repository contains a small set of AI models developed through both individ
 
 ---
 
-## Contents
+## 📁 Contents
 
 ### `ads.ipynb` — *Ad Click Prediction*  
 A model initially designed for predicting user ad-click behavior.  
