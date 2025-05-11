@@ -8,7 +8,7 @@ This repository contains a curated compilation of machine learning and AI models
 
 ## Contents
 
-### `ads.ipynb` — *Ad Click Prediction (Work in Progress)*  
+### `ads.ipynb` — *Ad Click Prediction*  
 A model initially designed for predicting user ad-click behavior.  
 - **Status:** Incomplete due to lack of sufficient and clean dataset.
 
