@@ -1,6 +1,6 @@
 # AI Models Compilation
 
-This repository contains a curated compilation of machine learning and AI models developed as part of both individual explorations and group projects. The collection showcases work in applied machine learning, data preprocessing, and model evaluation using Jupyter notebooks.
+This repository contains a small set of AI models developed through both individual explorations and group projects. It showcases work in applied machine learning, including data preprocessing, model training, and evaluation using Jupyter notebooks.
 
 > **Note:** Some models are still in progress or bound by academic confidentiality rules. Details below.
 
